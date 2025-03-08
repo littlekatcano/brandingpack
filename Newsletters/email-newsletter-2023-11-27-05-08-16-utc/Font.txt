@@ -1,0 +1,7 @@
+Font:
+
+Cormorant Garamond
+https://fonts.google.com/specimen/Cormorant+Garamond
+
+Raleway
+https://fonts.google.com/specimen/Raleway

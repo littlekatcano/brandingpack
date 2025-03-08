@@ -1,0 +1,11 @@
+Font in use
+
+
+
+Inter
+
+https://fonts.google.com/specimen/inter
+
+Cabin
+
+https://fonts.google.com/specimen/cabin
